@@ -16,7 +16,7 @@
 ## 2. System Modelling
 
 - ### ER Diagram
-![image](https://user-images.githubusercontent.com/55776095/162664304-6872ace6-fc2d-45c5-949b-4c91afee0b83.png)
+![image](https://user-images.githubusercontent.com/55776095/162679307-d8362f65-b5b6-4ccc-b4d6-d02640fabc30.png)
 - ### Schema Design
 - ### Data Normalization
 - ### List of Tables required
