@@ -1,1 +1,2 @@
-[DBS_PR_11_Doc_2019B3A70545P_2019B4A70704P.pdf](https://github.com/animesh0545/Air-Traffic-Control-System/files/9085619/DBS_PR_11_Doc_2019B3A70545P_2019B4A70704P.pdf)
+# Air Traffic Control System
+Detailed Documentation given [here](https://drive.google.com/file/d/1NPZ5cwVCuMY88vIu_98YcXzxTxCO1WDJ/view?usp=sharing)
